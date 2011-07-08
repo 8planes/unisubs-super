@@ -1,0 +1,6 @@
+[submodule "mirosubs"]
+	path = mirosubs
+	url = ../mirosubs
+[submodule "unisubsQA"]
+	path = unisubsQA
+	url = git@github.com:PCF-qa/universal-subtitles.git
