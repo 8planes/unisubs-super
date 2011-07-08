@@ -1,6 +1,6 @@
 [submodule "mirosubs"]
 	path = mirosubs
-	url = git@github.com:8planes/mirosubs.git
+	url = git://github.com/8planes/mirosubs.git
 [submodule "unisubsQA"]
 	path = unisubsQA
-	url = git@github.com:PCF-qa/universal-subtitles.git
+	url = git://github.com/PCF-qa/universal-subtitles.git
